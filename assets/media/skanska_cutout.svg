@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 1080 1920" style="enable-background:new 0 0 1080 1920;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#143275;}
+</style>
+<g id="Background">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="1080" height="1920"/>
+		</defs>
+		<use xlink:href="#SVGID_1_" style="overflow:visible;fill:#ECECEC;"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_" style="overflow:visible;"/>
+		</clipPath>
+	</g>
+</g>
+<g id="Cutout">
+	<g>
+		<path class="st0" d="M0,1623.5583V1920h1080v-335.9049c-32.447,24.3652-75.4417,39.4633-128.8206,39.4633H0z"/>
+		<path class="st0" d="M0,181.3498v875.7707c111.0982,115.2354,277.4107,178.4546,485.5973,178.4546h465.5821    c53.3789,0,96.3736,15.098,128.8206,39.4634V819.5101c-39.1089-5.1272-80.0945-7.731-122.8512-7.731h-465.582    c-134.2991,0-202.942-92.5168-202.942-188.0203s68.6428-188.024,202.942-188.024H1080V0H485.5973    C277.4107,0,111.0982,64.0408,0,181.3498z"/>
+	</g>
+</g>
+</svg>
